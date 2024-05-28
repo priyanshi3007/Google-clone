@@ -1,7 +1,5 @@
 # Google clone made with React, Redux on Google search API
 
-![Alt Text](https://github.com/5ebs/Google-Clone/blob/main/g.gif)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
